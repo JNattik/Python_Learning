@@ -1,0 +1,25 @@
+html {
+    background-color: black;
+    text-align: center;
+}
+
+.div {
+    width: 50%;
+    margin-left: 25%;
+}
+
+.img {
+    border: 5px solid white;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.heading {
+    color: white;
+    text-align: center;
+    font: "Regular Libre Baskerville";
+}
+
+.pe {
+    color: white;
+}
