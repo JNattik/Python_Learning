@@ -1,0 +1,21 @@
+import another_module
+import turtle
+from prettytable import PrettyTable
+
+#print(another_module.another_variable)  --> you can access other files by importing them
+
+#timmy = turtle.Turtle()
+#print(timmy)
+#timmy.shape("turtle") #--> Change Attribute of turtle
+#timmy.color("DarkOliveGreen")
+#timmy.forward(100) #--> new method for timmy
+
+#my_screen = turtle.Screen() 
+#print(my_screen.canvheight)
+#my_screen.exitonclick() 
+
+table = PrettyTable() #Object from Class PrettyTable
+table.add_column("Pokemon Name", ["Pikachu", "Squirtle", "Charmander"]) #method
+table.add_column("Type", ["Electric", "Water", "Fire"])
+table.align = "c" #changing the attribute of an object --> alignement
+print(table)

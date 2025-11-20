@@ -1,0 +1,7 @@
+1. Screen with Boarders
+2. Player 1
+3. Player 2
+4. Ball
+5. Score
+6. Detect Collision with Wall and bounce back
+7. Detect Collision with Paddle
